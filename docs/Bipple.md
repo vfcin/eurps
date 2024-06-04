@@ -1,3 +1,3 @@
 # Bipple
 
-![Bipple](../Media/Bipple.png)
+![Bipple](./Media/Bipple.png)
